@@ -23,5 +23,10 @@ namespace AssignmentTest
             Assert.AreNotSame(original, result);
             */
         }
+
+        public void ReplicateArray_ArrayWithElements()
+        {
+          
+        }
     }
 }
